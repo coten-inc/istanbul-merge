@@ -37,4 +37,5 @@ npm-shrinkwrap.json
 package-lock.json
 yarn.lock
 
+.npmrc
 .npmignore
